@@ -40,7 +40,7 @@ As últimas três etapas tem como objetivo a criação do modelo, baseada nas et
 # Explicação da Análise <img src="https://github.com/user-attachments/assets/cc316519-b878-4211-8562-9123c44f33b7" alt="Descrição do GIF" width="50" /> 
 
 
-**Análise realizada como desafio de formação em Data Science:** Com foco em aplicar a metodologia CRISP-DM de forma correta e coerente, respeitando todas as etapas. O projeto pode ser entendido por  qualquer pessoa que não seja da área de TI já que é apresentado com visuais e descriações em cada processo do começo ao fim.
+**Análise realizada como desafio de formação em Data Science:** Com foco em aplicar a metodologia CRISP-DM de forma correta e coerente, respeitando todas as etapas. O projeto pode ser entendido por  qualquer pessoa que não seja da área de TI já que é apresentado com visuais e descrições em cada processo do começo ao fim.
 
 ## **Descrição da Análise** <img src="https://github.com/user-attachments/assets/592d2cd5-14d5-407b-ba40-8bdcee3cbcd1" alt="Descrição do GIF" width="30" /> 
 
